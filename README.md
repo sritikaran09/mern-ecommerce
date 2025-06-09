@@ -78,6 +78,3 @@ To deploy the project on Vercel:
 ## License
 This project is licensed under the MIT License.
 
-=======
-# mern-ecommerce
->>>>>>> 39c11843e5600948ae20bf865ee6fbbabd2c695f
