@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Commerce Website (MERN Stack)
 
 ## Description
@@ -72,8 +73,11 @@ To deploy the project on Vercel:
 3. Deploy both the frontend and backend separately.
 
 ## Contributors
-- **Divanshi Jain** - [GitHub Profile](https://github.com/DivanshiJain2005)
+- **Sritikaran Sahoo** - [GitHub Profile](https://github.com/sritikaran09)
 
 ## License
 This project is licensed under the MIT License.
 
+=======
+# mern-ecommerce
+>>>>>>> 39c11843e5600948ae20bf865ee6fbbabd2c695f
